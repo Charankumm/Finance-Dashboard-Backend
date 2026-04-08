@@ -144,7 +144,7 @@ mvn spring-boot:run
 
 ## 👨‍💻 Author
 
-**Charan Kumar**
+**Vadlakonda Charan Kumar**
 
 ---
 
